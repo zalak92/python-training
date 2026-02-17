@@ -28,5 +28,3 @@ print(type(is_student))# <class 'bool'>
         Years to learn AI (integer)
         Your confidence level (float)
         Are you excited? (boolean)
-
-</details>
