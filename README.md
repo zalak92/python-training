@@ -10,20 +10,20 @@
 | Day | Topic | File |
 |-----|-------|------|
 | 0 | Setup | This README |
-| 1 | Variables & Strings | 
-| 2 | Lists & Tuples |
-| 3 | Dictionaries & Sets | 
-| 4 | Conditionals |
-| 5 | Loops | 
-| 6 | Functions | 
-| 7 | Week 1 Project | 
-| 8 | File Handling | 
-| 9 | Error Handling |
-| 10 | APIs |
-| 11 | NumPy | 
-| 12 | Pandas | 
-| 13 | Visualization | 
-| 14 | Capstone Project | 
+| 1 | Variables & Strings | <a href="week1/day01.md" target="_blank" rel="noopener noreferrer">day01.md</a> |
+| 2 | Lists & Tuples | <a href="week1/day02.md" target="_blank" rel="noopener noreferrer">day02.md</a> |
+| 3 | Dictionaries & Sets | <a href="week1/day03.md" target="_blank" rel="noopener noreferrer">day03.md</a> |
+| 4 | Conditionals | <a href="week1/day04.md" target="_blank" rel="noopener noreferrer">day04.md</a> |
+| 5 | Loops | <a href="week1/day05.md" target="_blank" rel="noopener noreferrer">day05.md</a> |
+| 6 | Functions | <a href="week1/day06.md" target="_blank" rel="noopener noreferrer">day06.md</a> |
+| 7 | Week 1 Project | <a href="week1/day07.md" target="_blank" rel="noopener noreferrer">day07.md</a> |
+| 8 | File Handling | <a href="week2/day08.md" target="_blank" rel="noopener noreferrer">day08.md</a> |
+| 9 | Error Handling | <a href="week2/day09.md" target="_blank" rel="noopener noreferrer">day09.md</a> |
+| 10 | APIs | <a href="week2/day10.md" target="_blank" rel="noopener noreferrer">day10.md</a> |
+| 11 | NumPy | <a href="week2/day11.md" target="_blank" rel="noopener noreferrer">day11.md</a> |
+| 12 | Pandas | <a href="week2/day12.md" target="_blank" rel="noopener noreferrer">day12.md</a> |
+| 13 | Visualization | <a href="week2/day13.md" target="_blank" rel="noopener noreferrer">day13.md</a> |
+| 14 | Capstone Project | <a href="week2/day14.md" target="_blank" rel="noopener noreferrer">day14.md</a> |
 
 ---
 
