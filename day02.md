@@ -1,7 +1,3 @@
-<details>
-<summary><strong>day_02.md</strong></summary>
-
-```markdown
 # Day 2: Variables and Data Types
 
 ## 2.1 Variables
