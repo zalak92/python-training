@@ -26,6 +26,6 @@ if True:
 
     Write a script that prints your name and your AI goal.
 
-# Exercise
+## Exercise
 print("My name is Alice.")
 print("My goal: Learn AI with Python!")
